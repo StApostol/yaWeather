@@ -1,10 +1,10 @@
 # yaWeather
-Парсер погоды с яндекса
+РџР°СЂСЃРµСЂ РїРѕРіРѕРґС‹ СЃ СЏРЅРґРµРєСЃР°
 
-Номер города находится по ссылке 
+РќРѕРјРµСЂ РіРѕСЂРѕРґР° РЅР°С…РѕРґРёС‚СЃСЏ РїРѕ СЃСЃС‹Р»РєРµ 
 http://weather.yandex.ru/static/cities.xml
 
-# Использование
+# РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ
 ```sh
 require_once('vendor/autoload.php');
 include_once 'class/yaWeatherApi.php';
