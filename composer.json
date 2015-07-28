@@ -1,0 +1,16 @@
+{
+  "name": "StApostol/yaWeather",
+  "description": "parser weather with Yandex",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "StAndrew",
+      "email": "stapostol89@gmail.com"
+    }
+  ],
+  "require": {
+    "shark/simple_html_dom": "dev-master"
+  }
+
+}
